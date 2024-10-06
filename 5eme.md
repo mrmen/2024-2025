@@ -1,4 +1,4 @@
-# Sixième
+# Cinquième
 
 - [5eme2](./5eme2.md)
 - [5M4](./5M4.md)
@@ -14,5 +14,5 @@
     - [Fiche exercices](./5eme/502_symetrie_exercices.pdf)
 
 - Calcul littéral
-	- [leçon](./5eme/503_litteral_cours.pdf)
-    - [Fiche exercices](.)
+    - [leçon](./5eme/503_litteral_cours.pdf)
+    - Fiche exercices
