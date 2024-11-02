@@ -1,7 +1,5 @@
 # Sixième
 
-- [3eme5](./3eme5.md)
-
 ## Contenus de cours 
 
 - Théorème de Pythagore
